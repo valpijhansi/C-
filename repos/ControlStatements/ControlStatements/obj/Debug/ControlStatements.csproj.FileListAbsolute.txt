@@ -1,0 +1,7 @@
+C:\Users\Jhansi\source\repos\ControlStatements\ControlStatements\obj\Debug\ControlStatements.csproj.AssemblyReference.cache
+C:\Users\Jhansi\source\repos\ControlStatements\ControlStatements\obj\Debug\ControlStatements.csproj.CoreCompileInputs.cache
+C:\Users\Jhansi\source\repos\ControlStatements\ControlStatements\bin\Debug\ControlStatements.exe.config
+C:\Users\Jhansi\source\repos\ControlStatements\ControlStatements\bin\Debug\ControlStatements.exe
+C:\Users\Jhansi\source\repos\ControlStatements\ControlStatements\bin\Debug\ControlStatements.pdb
+C:\Users\Jhansi\source\repos\ControlStatements\ControlStatements\obj\Debug\ControlStatements.exe
+C:\Users\Jhansi\source\repos\ControlStatements\ControlStatements\obj\Debug\ControlStatements.pdb

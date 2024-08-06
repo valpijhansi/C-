@@ -28,10 +28,10 @@ namespace ControlStatement
                 case 5:
                     Console.WriteLine("Thursday");
                     break;
-                    case 6:
+                case 6:
                     Console.WriteLine("Friday");
                     break;
-                    case 7:
+                case 7:
                     Console.WriteLine("Saturday");
                     break;
                 default:

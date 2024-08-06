@@ -1,0 +1,7 @@
+C:\Users\Jhansi\source\repos\FunuctionsInC#\FunuctionsInC#\bin\Debug\FunuctionsInC#.exe.config
+C:\Users\Jhansi\source\repos\FunuctionsInC#\FunuctionsInC#\bin\Debug\FunuctionsInC#.exe
+C:\Users\Jhansi\source\repos\FunuctionsInC#\FunuctionsInC#\bin\Debug\FunuctionsInC#.pdb
+C:\Users\Jhansi\source\repos\FunuctionsInC#\FunuctionsInC#\obj\Debug\FunuctionsInC#.csproj.AssemblyReference.cache
+C:\Users\Jhansi\source\repos\FunuctionsInC#\FunuctionsInC#\obj\Debug\FunuctionsInC#.csproj.CoreCompileInputs.cache
+C:\Users\Jhansi\source\repos\FunuctionsInC#\FunuctionsInC#\obj\Debug\FunuctionsInC#.exe
+C:\Users\Jhansi\source\repos\FunuctionsInC#\FunuctionsInC#\obj\Debug\FunuctionsInC#.pdb

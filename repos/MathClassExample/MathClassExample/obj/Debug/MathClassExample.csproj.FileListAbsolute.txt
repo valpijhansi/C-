@@ -1,0 +1,7 @@
+C:\Users\Jhansi\source\repos\MathClassExample\MathClassExample\bin\Debug\MathClassExample.exe.config
+C:\Users\Jhansi\source\repos\MathClassExample\MathClassExample\bin\Debug\MathClassExample.exe
+C:\Users\Jhansi\source\repos\MathClassExample\MathClassExample\bin\Debug\MathClassExample.pdb
+C:\Users\Jhansi\source\repos\MathClassExample\MathClassExample\obj\Debug\MathClassExample.csproj.AssemblyReference.cache
+C:\Users\Jhansi\source\repos\MathClassExample\MathClassExample\obj\Debug\MathClassExample.csproj.CoreCompileInputs.cache
+C:\Users\Jhansi\source\repos\MathClassExample\MathClassExample\obj\Debug\MathClassExample.exe
+C:\Users\Jhansi\source\repos\MathClassExample\MathClassExample\obj\Debug\MathClassExample.pdb

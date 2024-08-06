@@ -1,0 +1,7 @@
+C:\Users\Jhansi\source\repos\GoToStatement\GoToStatement\bin\Debug\GoToStatement.exe.config
+C:\Users\Jhansi\source\repos\GoToStatement\GoToStatement\bin\Debug\GoToStatement.exe
+C:\Users\Jhansi\source\repos\GoToStatement\GoToStatement\bin\Debug\GoToStatement.pdb
+C:\Users\Jhansi\source\repos\GoToStatement\GoToStatement\obj\Debug\GoToStatement.csproj.AssemblyReference.cache
+C:\Users\Jhansi\source\repos\GoToStatement\GoToStatement\obj\Debug\GoToStatement.csproj.CoreCompileInputs.cache
+C:\Users\Jhansi\source\repos\GoToStatement\GoToStatement\obj\Debug\GoToStatement.exe
+C:\Users\Jhansi\source\repos\GoToStatement\GoToStatement\obj\Debug\GoToStatement.pdb

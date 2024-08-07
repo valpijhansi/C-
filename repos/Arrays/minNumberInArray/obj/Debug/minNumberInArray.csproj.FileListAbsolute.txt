@@ -1,0 +1,7 @@
+C:\Users\Jhansi\source\repos\Arrays\minNumberInArray\bin\Debug\minNumberInArray.exe.config
+C:\Users\Jhansi\source\repos\Arrays\minNumberInArray\bin\Debug\minNumberInArray.exe
+C:\Users\Jhansi\source\repos\Arrays\minNumberInArray\bin\Debug\minNumberInArray.pdb
+C:\Users\Jhansi\source\repos\Arrays\minNumberInArray\obj\Debug\minNumberInArray.csproj.AssemblyReference.cache
+C:\Users\Jhansi\source\repos\Arrays\minNumberInArray\obj\Debug\minNumberInArray.csproj.CoreCompileInputs.cache
+C:\Users\Jhansi\source\repos\Arrays\minNumberInArray\obj\Debug\minNumberInArray.exe
+C:\Users\Jhansi\source\repos\Arrays\minNumberInArray\obj\Debug\minNumberInArray.pdb

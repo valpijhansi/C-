@@ -1,0 +1,7 @@
+C:\Users\Jhansi\source\repos\Arrays\arrayInFunctions\bin\Debug\arrayInFunctions.exe.config
+C:\Users\Jhansi\source\repos\Arrays\arrayInFunctions\bin\Debug\arrayInFunctions.exe
+C:\Users\Jhansi\source\repos\Arrays\arrayInFunctions\bin\Debug\arrayInFunctions.pdb
+C:\Users\Jhansi\source\repos\Arrays\arrayInFunctions\obj\Debug\arrayInFunctions.csproj.AssemblyReference.cache
+C:\Users\Jhansi\source\repos\Arrays\arrayInFunctions\obj\Debug\arrayInFunctions.csproj.CoreCompileInputs.cache
+C:\Users\Jhansi\source\repos\Arrays\arrayInFunctions\obj\Debug\arrayInFunctions.exe
+C:\Users\Jhansi\source\repos\Arrays\arrayInFunctions\obj\Debug\arrayInFunctions.pdb

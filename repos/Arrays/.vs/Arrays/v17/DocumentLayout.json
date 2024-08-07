@@ -3,16 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\Jhansi\\source\\repos\\Arrays\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8DD2A0E4-F8D9-41A4-B715-81F4200E2BCB}|Arrays\\Arrays.csproj|c:\\users\\jhansi\\source\\repos\\arrays\\arrays\\rotationofanarray.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8DD2A0E4-F8D9-41A4-B715-81F4200E2BCB}|Arrays\\Arrays.csproj|solutionrelative:arrays\\rotationofanarray.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{ED2C730C-5320-415B-8762-29CED4AFD07B}|ArrayMethods\\ArrayMethods.csproj|c:\\users\\jhansi\\source\\repos\\arrays\\arraymethods\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED2C730C-5320-415B-8762-29CED4AFD07B}|ArrayMethods\\ArrayMethods.csproj|solutionrelative:arraymethods\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8DD2A0E4-F8D9-41A4-B715-81F4200E2BCB}|Arrays\\Arrays.csproj|c:\\users\\jhansi\\source\\repos\\arrays\\arrays\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8DD2A0E4-F8D9-41A4-B715-81F4200E2BCB}|Arrays\\Arrays.csproj|solutionrelative:arrays\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F2399732-A9AF-4426-A3FF-21E4C224A3A0}|Params\\Params.csproj|C:\\Users\\Jhansi\\source\\repos\\Arrays\\params\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2399732-A9AF-4426-A3FF-21E4C224A3A0}|Params\\Params.csproj|solutionrelative:params\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8DD2A0E4-F8D9-41A4-B715-81F4200E2BCB}|Arrays\\Arrays.csproj|c:\\users\\jhansi\\source\\repos\\arrays\\arrays\\linearsearch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8DD2A0E4-F8D9-41A4-B715-81F4200E2BCB}|Arrays\\Arrays.csproj|solutionrelative:arrays\\linearsearch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B45D1318-4B3F-4498-9BB3-63C8DE23BC23}|minNumberInArray\\minNumberInArray.csproj|C:\\Users\\Jhansi\\source\\repos\\Arrays\\minnumberinarray\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B45D1318-4B3F-4498-9BB3-63C8DE23BC23}|minNumberInArray\\minNumberInArray.csproj|solutionrelative:minnumberinarray\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFDCFE1B-621B-4692-B412-8934A609C326}|arrayInFunctions\\arrayInFunctions.csproj|C:\\Users\\Jhansi\\source\\repos\\Arrays\\arrayinfunctions\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFDCFE1B-621B-4692-B412-8934A609C326}|arrayInFunctions\\arrayInFunctions.csproj|solutionrelative:arrayinfunctions\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,41 +31,51 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "rotationOfAnArray.cs",
-              "DocumentMoniker": "C:\\Users\\Jhansi\\source\\repos\\Arrays\\Arrays\\rotationOfAnArray.cs",
-              "RelativeDocumentMoniker": "Arrays\\rotationOfAnArray.cs",
-              "ToolTip": "C:\\Users\\Jhansi\\source\\repos\\Arrays\\Arrays\\rotationOfAnArray.cs",
-              "RelativeToolTip": "Arrays\\rotationOfAnArray.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAArAAAA",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Jhansi\\source\\repos\\Arrays\\ArrayMethods\\Program.cs",
+              "RelativeDocumentMoniker": "ArrayMethods\\Program.cs",
+              "ToolTip": "C:\\Users\\Jhansi\\source\\repos\\Arrays\\ArrayMethods\\Program.cs",
+              "RelativeToolTip": "ArrayMethods\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAOAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-06T11:32:57.089Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "linearSearch.cs",
-              "DocumentMoniker": "C:\\Users\\Jhansi\\source\\repos\\Arrays\\Arrays\\linearSearch.cs",
-              "RelativeDocumentMoniker": "Arrays\\linearSearch.cs",
-              "ToolTip": "C:\\Users\\Jhansi\\source\\repos\\Arrays\\Arrays\\linearSearch.cs",
-              "RelativeToolTip": "Arrays\\linearSearch.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA4AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-06T11:19:22.79Z",
+              "WhenOpened": "2024-08-07T06:15:48.346Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Jhansi\\source\\repos\\Arrays\\Arrays\\Program.cs",
-              "RelativeDocumentMoniker": "Arrays\\Program.cs",
-              "ToolTip": "C:\\Users\\Jhansi\\source\\repos\\Arrays\\Arrays\\Program.cs",
-              "RelativeToolTip": "Arrays\\Program.cs",
-              "ViewState": "AQIAABgAAAAAAAAAAAAAACEAAAALAAAA",
+              "DocumentMoniker": "C:\\Users\\Jhansi\\source\\repos\\Arrays\\Params\\Program.cs",
+              "RelativeDocumentMoniker": "Params\\Program.cs",
+              "ToolTip": "C:\\Users\\Jhansi\\source\\repos\\Arrays\\Params\\Program.cs",
+              "RelativeToolTip": "Params\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-06T10:55:20.829Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-07T05:53:19.523Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Jhansi\\source\\repos\\Arrays\\minNumberInArray\\Program.cs",
+              "RelativeDocumentMoniker": "minNumberInArray\\Program.cs",
+              "ToolTip": "C:\\Users\\Jhansi\\source\\repos\\Arrays\\minNumberInArray\\Program.cs",
+              "RelativeToolTip": "minNumberInArray\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T05:23:01.655Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Jhansi\\source\\repos\\Arrays\\arrayInFunctions\\Program.cs",
+              "RelativeDocumentMoniker": "arrayInFunctions\\Program.cs",
+              "ToolTip": "C:\\Users\\Jhansi\\source\\repos\\Arrays\\arrayInFunctions\\Program.cs",
+              "RelativeToolTip": "arrayInFunctions\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T05:09:34.771Z"
             }
           ]
         }

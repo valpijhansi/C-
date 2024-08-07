@@ -20,7 +20,7 @@ namespace Arrays
                 {
                     arr[i] = arr[i - 1];
                 }
-                arr[0] = last;
+                  arr[0] = last;
 
                 foreach (var item in arr)
                 {

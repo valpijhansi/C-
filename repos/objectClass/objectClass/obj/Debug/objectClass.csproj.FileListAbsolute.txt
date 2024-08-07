@@ -1,0 +1,7 @@
+C:\Users\Jhansi\source\repos\objectClass\objectClass\bin\Debug\objectClass.exe.config
+C:\Users\Jhansi\source\repos\objectClass\objectClass\bin\Debug\objectClass.exe
+C:\Users\Jhansi\source\repos\objectClass\objectClass\bin\Debug\objectClass.pdb
+C:\Users\Jhansi\source\repos\objectClass\objectClass\obj\Debug\objectClass.csproj.AssemblyReference.cache
+C:\Users\Jhansi\source\repos\objectClass\objectClass\obj\Debug\objectClass.csproj.CoreCompileInputs.cache
+C:\Users\Jhansi\source\repos\objectClass\objectClass\obj\Debug\objectClass.exe
+C:\Users\Jhansi\source\repos\objectClass\objectClass\obj\Debug\objectClass.pdb

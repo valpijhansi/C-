@@ -1,0 +1,7 @@
+C:\Users\Jhansi\source\repos\objectClass\staticField1\bin\Debug\staticField1.exe.config
+C:\Users\Jhansi\source\repos\objectClass\staticField1\bin\Debug\staticField1.exe
+C:\Users\Jhansi\source\repos\objectClass\staticField1\bin\Debug\staticField1.pdb
+C:\Users\Jhansi\source\repos\objectClass\staticField1\obj\Debug\staticField1.csproj.AssemblyReference.cache
+C:\Users\Jhansi\source\repos\objectClass\staticField1\obj\Debug\staticField1.csproj.CoreCompileInputs.cache
+C:\Users\Jhansi\source\repos\objectClass\staticField1\obj\Debug\staticField1.exe
+C:\Users\Jhansi\source\repos\objectClass\staticField1\obj\Debug\staticField1.pdb

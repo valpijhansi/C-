@@ -1,0 +1,7 @@
+C:\Users\Jhansi\source\repos\objectClass\Destructor\bin\Debug\Destructor.exe.config
+C:\Users\Jhansi\source\repos\objectClass\Destructor\bin\Debug\Destructor.exe
+C:\Users\Jhansi\source\repos\objectClass\Destructor\bin\Debug\Destructor.pdb
+C:\Users\Jhansi\source\repos\objectClass\Destructor\obj\Debug\Destructor.csproj.AssemblyReference.cache
+C:\Users\Jhansi\source\repos\objectClass\Destructor\obj\Debug\Destructor.csproj.CoreCompileInputs.cache
+C:\Users\Jhansi\source\repos\objectClass\Destructor\obj\Debug\Destructor.exe
+C:\Users\Jhansi\source\repos\objectClass\Destructor\obj\Debug\Destructor.pdb

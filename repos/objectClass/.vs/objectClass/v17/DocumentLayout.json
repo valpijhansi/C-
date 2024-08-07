@@ -1,0 +1,120 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Jhansi\\source\\repos\\objectClass\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5257A586-F741-4D6E-B286-9BEBCE35D039}|Enum\\Enum.csproj|c:\\users\\jhansi\\source\\repos\\objectclass\\enum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5257A586-F741-4D6E-B286-9BEBCE35D039}|Enum\\Enum.csproj|solutionrelative:enum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7A478EC-0129-4296-BC58-CE9B1F01A434}|Struct\\Struct.csproj|c:\\users\\jhansi\\source\\repos\\objectclass\\struct\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7A478EC-0129-4296-BC58-CE9B1F01A434}|Struct\\Struct.csproj|solutionrelative:struct\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29850135-BDAA-4BCC-A30D-891C038CF6E8}|staticField1\\staticField1.csproj|c:\\users\\jhansi\\source\\repos\\objectclass\\staticfield1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29850135-BDAA-4BCC-A30D-891C038CF6E8}|staticField1\\staticField1.csproj|solutionrelative:staticfield1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{439B575A-D559-4869-9EB0-5DE4914EAE2F}|Destructor\\Destructor.csproj|c:\\users\\jhansi\\source\\repos\\objectclass\\destructor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{439B575A-D559-4869-9EB0-5DE4914EAE2F}|Destructor\\Destructor.csproj|solutionrelative:destructor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7888C49-37DA-4DD4-AEA6-D1A2FD711D09}|objectClass\\objectClass.csproj|C:\\Users\\Jhansi\\source\\repos\\objectClass\\objectclass\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7888C49-37DA-4DD4-AEA6-D1A2FD711D09}|objectClass\\objectClass.csproj|solutionrelative:objectclass\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7888C49-37DA-4DD4-AEA6-D1A2FD711D09}|objectClass\\objectClass.csproj|C:\\Users\\Jhansi\\source\\repos\\objectClass\\objectclass\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7888C49-37DA-4DD4-AEA6-D1A2FD711D09}|objectClass\\objectClass.csproj|solutionrelative:objectclass\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Jhansi\\source\\repos\\objectClass\\Enum\\Program.cs",
+              "RelativeDocumentMoniker": "Enum\\Program.cs",
+              "ToolTip": "C:\\Users\\Jhansi\\source\\repos\\objectClass\\Enum\\Program.cs",
+              "RelativeToolTip": "Enum\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T09:54:01.184Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Jhansi\\source\\repos\\objectClass\\Struct\\Program.cs",
+              "RelativeDocumentMoniker": "Struct\\Program.cs",
+              "ToolTip": "C:\\Users\\Jhansi\\source\\repos\\objectClass\\Struct\\Program.cs",
+              "RelativeToolTip": "Struct\\Program.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAYwAkAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T09:41:05.238Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Jhansi\\source\\repos\\objectClass\\staticField1\\Program.cs",
+              "RelativeDocumentMoniker": "staticField1\\Program.cs",
+              "ToolTip": "C:\\Users\\Jhansi\\source\\repos\\objectClass\\staticField1\\Program.cs",
+              "RelativeToolTip": "staticField1\\Program.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAA5wCkAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T09:03:57.586Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Jhansi\\source\\repos\\objectClass\\Destructor\\Program.cs",
+              "RelativeDocumentMoniker": "Destructor\\Program.cs",
+              "ToolTip": "C:\\Users\\Jhansi\\source\\repos\\objectClass\\Destructor\\Program.cs",
+              "RelativeToolTip": "Destructor\\Program.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAzwBYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T07:30:25.108Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\Jhansi\\source\\repos\\objectClass\\objectClass\\Employee.cs",
+              "RelativeDocumentMoniker": "objectClass\\Employee.cs",
+              "ToolTip": "C:\\Users\\Jhansi\\source\\repos\\objectClass\\objectClass\\Employee.cs",
+              "RelativeToolTip": "objectClass\\Employee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T07:15:34.485Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Jhansi\\source\\repos\\objectClass\\objectClass\\Program.cs",
+              "RelativeDocumentMoniker": "objectClass\\Program.cs",
+              "ToolTip": "C:\\Users\\Jhansi\\source\\repos\\objectClass\\objectClass\\Program.cs",
+              "RelativeToolTip": "objectClass\\Program.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAzwBEAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T07:14:35.874Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

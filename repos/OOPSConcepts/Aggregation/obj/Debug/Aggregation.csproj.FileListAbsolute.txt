@@ -1,0 +1,7 @@
+C:\Users\Jhansi\source\repos\OOPSConcepts\Aggregation\bin\Debug\Aggregation.exe.config
+C:\Users\Jhansi\source\repos\OOPSConcepts\Aggregation\bin\Debug\Aggregation.exe
+C:\Users\Jhansi\source\repos\OOPSConcepts\Aggregation\bin\Debug\Aggregation.pdb
+C:\Users\Jhansi\source\repos\OOPSConcepts\Aggregation\obj\Debug\Aggregation.csproj.AssemblyReference.cache
+C:\Users\Jhansi\source\repos\OOPSConcepts\Aggregation\obj\Debug\Aggregation.csproj.CoreCompileInputs.cache
+C:\Users\Jhansi\source\repos\OOPSConcepts\Aggregation\obj\Debug\Aggregation.exe
+C:\Users\Jhansi\source\repos\OOPSConcepts\Aggregation\obj\Debug\Aggregation.pdb
